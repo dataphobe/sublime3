@@ -22,3 +22,5 @@ MarkdownEditing: Change color scheme
 
 # Reference
 1. [loenjza](https://github.com/leonjza/dotfiles/tree/master/SublimeText)
+<!-- 2. [Jamie's post](https://engageinteractive.co.uk/blog/getting-setup-on-sublime-text-3-2017-edition) -->
+<!-- 3.[ijy](https://gist.github.com/ijy/7399688) -->
